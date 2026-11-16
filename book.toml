@@ -1,0 +1,16 @@
+[book]
+title = "La procrastinación como respuesta"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "La procrastinación no es pereza ni falta de voluntad: es una respuesta del alma ante una amenaza. Este libro une psicología y teología pastoral para descubrir la herida detrás de la parálisis, el llamado diferido y el duelo congelado, y propone un camino de regreso al movimiento que culmina en el Tetelestai de Cristo: aprender a terminar."
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/Libro_Procrastinacion"
+edit-url-template = "https://github.com/PabloeCancino/Libro_Procrastinacion/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
